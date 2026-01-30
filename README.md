@@ -17,7 +17,7 @@
   <a href="mailto:andresantos11072007@gmail.com" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:andresantos11072007@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" alt="Linkedin" onclick="link(this)">url 1 </a><br>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" alt="Linkedin" onclick="link(https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/)">url 1
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" /></a>
   
   <a href="https://wa.me/5581985139485" alt="WhatsApp" >
