@@ -14,12 +14,12 @@
 
 
 <div align="center">
-  <a href="mailto:andresantos11072007@gmail.com" alt="Gmail" >
+  <a href="mailto:andresantos11072007@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:andresantos11072007@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" alt="Linkedin" onclick="link(https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/)">url 1
+  <a href="https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" target="_blank" rel="noopener noreferrer" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-santos-9b655439a/" /></a>
   
-  <a href="https://wa.me/5581985139485" alt="WhatsApp" >
+  <a href="https://wa.me/5581985139485" target="_blank" rel="noopener noreferrer" alt="WhatsApp" >
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5581985139485"/></a>
 <div>
