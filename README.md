@@ -23,11 +23,3 @@
   <a href="https://wa.me/5581985139485" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5581985139485"/></a>
 <div>
- 
-
-</br>
-<div align="center">
-<a href="https://github-readme-stats.andresantos01.vercel.app/api?username=andresantos01"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andresantos01&show_icons=true&include_all_commits=true&theme=radical" alt="Andre's github stats"/>
-</a>
-</div>
-
