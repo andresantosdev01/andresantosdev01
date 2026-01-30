@@ -27,7 +27,7 @@
 
 </br>
 <div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andresantos01"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andresantos01&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.andresantos01.vercel.app/api?username=andresantos01"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andresantos01&show_icons=true&include_all_commits=true&theme=radical" alt="Andre's github stats"/>
 </a>
 </div>
 
