@@ -2,7 +2,7 @@
 
 <h3> :man_office_worker: Quem sou eu: </h3>
 
-- 🎓 &nbsp; <strong>Estudando na Treina recife</strong>
+- 🎓 &nbsp; <strong>Cursando licenciatura em computação na URFPE e curso da Treina Recife feito</strong>
 - :computer: &nbsp; <strong>Fullstack</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
